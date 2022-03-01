@@ -7,15 +7,15 @@ Selenium is a powerful tool for controlling web browsers through programs and pe
 Tensorflow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
 Web Driver will connect to your Google account automatically,open the meeting link, turn your cam and mic off and join
 During meeting a speech recognition system will recognise your name, then open the mic say 'Present' and turn it off
-if the teacher says your name two or more time in short period the system will open the mic play some bad noise for 3 seconds then turn it off and send in the chat room 'My internt connection is unstable'
-##erequisites
-Python 3.X
-install all the Seleium packages with the official [Guide from Selenium](https://selenium-python.readthedocs.io/installation.html#)
-selenium 4.X
-Tensorflow 2.X
-ffmpeg
-sounddevice
-wavio
-scipy
-###Other
+if the teacher says your name two or more time in short period the system will open the mic play some bad noise for 3 seconds then turn it off and send in the chat room 'My internt connection is unstable' <br/>
+## Perequisites <br/>
+Python 3.X <br/>
+install all the Seleium packages with the official [Guide from Selenium](https://selenium-python.readthedocs.io/installation.html#) <br/>
+selenium 4.X <br/>
+Tensorflow 2.X <br/>
+ffmpeg <br/>
+sounddevice <br/>
+wavio <br/>
+scipy <br/>
+### Other <br/>
 you need a pro e-mail
