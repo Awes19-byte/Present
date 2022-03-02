@@ -18,4 +18,25 @@ sounddevice <br/>
 wavio <br/>
 scipy <br/>
 ### Other <br/>
-you need a pro e-mail
+you need a pro e-mail <br/>
+High quality internet <br/>
+## Steps <br/>
+### First Step
+#### Prepare your envirement <br/>
+1. Configure you envirement and install the necessary packages to automate browsing using Selenium with the official [Guide from Selenium](https://selenium-python.readthedocs.io/installation.html#) <br/>
+2. Import the necessary modules such as Web Driver, Time  
+3. Create an instance of Chrome browser with some required prerequisite Chrome Options().
+4. Define some usefull function to use later (Google Login,...)
+5. Go to Google Classroom Login page and Login using the defined function and we found buttons by their xpaths using a function in selenium named find_element_by_xpath().
+6. Now switch to ggogle meet and write the meet code
+7. turn off mic and cam and join the meeting
+### Second Step <br/>
+#### Train a custom Speech Recognition Model <br/>
+we will use yamnet pre-trained model to recognise a specific name <br/>
+after record the training data from mic using ffmpeg <br/>
+all work done on google colab <br/>
+### Third Step <br/>
+#### Preprocess real time sound <br/>
+with the sounddevice and wavio modules from python it's pretty easy to preprocess , record sound from device <br/>
+### Fourth Step <br/>
+save the Speech recognition model and import it on pycharm <br/>
