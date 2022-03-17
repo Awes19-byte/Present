@@ -1,4 +1,4 @@
-# Present
+# Present_Beta
 ## Automating Google Meet using Python
 Present was developed Selenium, Tensorflow
 Present is an automatic system that join meetings on google meet and say 'present' on your place when it hear your name
@@ -9,17 +9,35 @@ Web Driver will connect to your Google account automatically,open the meeting li
 During meeting a speech recognition system will recognise your name, then open the mic say 'Present' and turn it off
 if the teacher says your name two or more time in short period the system will open the mic play some bad noise for 3 seconds then turn it off and send in the chat room 'My internt connection is unstable' <br/>
 ## Perequisites <br/>
+`
 Python 3.X <br/>
+`
+`
 install all the Seleium packages with the official [Guide from Selenium](https://selenium-python.readthedocs.io/installation.html#) <br/>
+`
+`
 selenium 4.X <br/>
+`
+`
 Tensorflow 2.X <br/>
+`
+`
 ffmpeg <br/>
+`
+`
 sounddevice <br/>
+`
+`
 wavio <br/>
+`
+`
 scipy <br/>
+`
 ### Other <br/>
+```
 you need a pro e-mail <br/>
 High quality internet <br/>
+```
 ## Steps <br/>
 ### First Step
 #### Prepare your envirement <br/>
@@ -40,3 +58,4 @@ all work done on **google colab** <br/>
 with the [**sounddevice**](https://python-sounddevice.readthedocs.io/en/0.4.4/) and [**wavio**](https://github.com/WarrenWeckesser/wavio) modules from python it's pretty easy to preprocess , record sound from device <br/>
 ### Fourth Step <br/>
 save the Speech recognition model and import it on **pycharm** <br/>
+> this Project is `not finished`
