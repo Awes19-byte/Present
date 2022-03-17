@@ -13,9 +13,6 @@ if the teacher says your name two or more time in short period the system will o
 Python 3.X 
 `<br/>
 `
-install all the Seleium packages with the official [Guide from Selenium](https://selenium-python.readthedocs.io/installation.html#)
-` <br/>
-`
 selenium 4.X 
 `<br/>
 `
