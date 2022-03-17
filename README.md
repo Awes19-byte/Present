@@ -10,33 +10,33 @@ During meeting a speech recognition system will recognise your name, then open t
 if the teacher says your name two or more time in short period the system will open the mic play some bad noise for 3 seconds then turn it off and send in the chat room 'My internt connection is unstable' <br/>
 ## Perequisites <br/>
 `
-Python 3.X <br/>
+Python 3.X 
+`<br/>
 `
+install all the Seleium packages with the official [Guide from Selenium](https://selenium-python.readthedocs.io/installation.html#)
+` <br/>
 `
-install all the Seleium packages with the official [Guide from Selenium](https://selenium-python.readthedocs.io/installation.html#) <br/>
+selenium 4.X 
+`<br/>
 `
+Tensorflow 2.X 
+`<br/>
 `
-selenium 4.X <br/>
+ffmpeg 
+`<br/>
 `
+sounddevice
+` <br/>
 `
-Tensorflow 2.X <br/>
+wavio 
+`<br/>
 `
-`
-ffmpeg <br/>
-`
-`
-sounddevice <br/>
-`
-`
-wavio <br/>
-`
-`
-scipy <br/>
-`
+scipy 
+`<br/>
 ### Other <br/>
 ```
-you need a pro e-mail <br/>
-High quality internet <br/>
+you need a pro e-mail 
+High quality internet 
 ```
 ## Steps <br/>
 ### First Step
