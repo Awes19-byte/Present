@@ -32,11 +32,11 @@ High quality internet <br/>
 7. turn off mic and cam and join the meeting
 ### Second Step <br/>
 #### Train a custom Speech Recognition Model <br/>
-we will use ['yamnet'](https://github.com/tensorflow/models/tree/master/research/audioset/yamnet) pre-trained model to recognise a specific name <br/>
-after record the training data from mic using ['ffmpeg'](https://ffmpeg.org/) <br/>
-all work done on 'google colab' <br/>
+we will use [**yamnet**](https://github.com/tensorflow/models/tree/master/research/audioset/yamnet) pre-trained model to recognise a specific name <br/>
+after record the training data from mic using [**ffmpeg**](https://ffmpeg.org/) <br/>
+all work done on **google colab** <br/>
 ### Third Step <br/>
 #### Preprocess real time sound <br/>
-with the ['sounddevice'](https://python-sounddevice.readthedocs.io/en/0.4.4/) and ['wavio'](https://github.com/WarrenWeckesser/wavio) modules from python it's pretty easy to preprocess , record sound from device <br/>
+with the [**sounddevice**](https://python-sounddevice.readthedocs.io/en/0.4.4/) and [**wavio**](https://github.com/WarrenWeckesser/wavio) modules from python it's pretty easy to preprocess , record sound from device <br/>
 ### Fourth Step <br/>
-save the Speech recognition model and import it on 'pycharm' <br/>
+save the Speech recognition model and import it on **pycharm** <br/>
